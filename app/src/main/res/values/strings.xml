@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rest Api</string>
+
+    <string name="name">Rest Api</string>
+
+    <string name="request_method">Request Method</string>
+    <string-array name="method_array">
+        <item>GET</item>
+        <item>POST</item>
+        <item>PUT</item>
+        <item>DELETE</item>
+    </string-array>
+
+    <string-array name="http_array">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
